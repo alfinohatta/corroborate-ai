@@ -1,0 +1,13 @@
+## Corroborate.ai - Local Configuration Example
+## Copy this to local.properties and fill in your details
+
+# Base URL for the Corroborate API regional stack
+corroborate.api.base_url=https://api.example.ai/v1/
+
+# Default Tenant Configuration
+corroborate.tenant.id=example-tenant-id
+corroborate.region.code=DE
+
+# Security & Audit
+corroborate.audit.merkle_anchor=secure-log-arn
+corroborate.kms.key_id=YOUR-KMS-KEY-ID
