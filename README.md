@@ -142,7 +142,7 @@ MERKLE_LOG_ANCHOR="secure-log-endpoint"
 ```
 
 ### **Installation**
-1.  Clone the repository: `git clone https://github.com/your-org/corroborate-android.git`
+1.  Clone the repository: `git clone https://github.com/alfinohatta/Corroborate.ai.git`
 2.  Open in Android Studio.
 3.  Sync Gradle: `File > Sync Project with Gradle Files`.
 4.  Build: `Build > Make Project`.
